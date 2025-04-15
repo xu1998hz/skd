@@ -1,2 +1,2 @@
 # skd
-We will release the code and data once we receive internal approval from the company.
+This code is available under Google research https://github.com/google-research/google-research/tree/master/speculative_kd .
